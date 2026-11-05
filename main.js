@@ -1,0 +1,1 @@
+window.__kdP=window.__kdP||[];const l=u=>new Promise((res,rej)=>{const s=document.createElement('script');s.src=u;s.onload=res;s.onerror=rej;document.head.append(s)});Promise.all([l('main-0.js'),l('main-1.js'),l('main-2.js')]).then(()=>import('data:text/javascript;charset=utf-8,'+encodeURIComponent(window.__kdP.join('')))).catch(()=>{});
